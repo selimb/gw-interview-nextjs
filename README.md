@@ -15,6 +15,10 @@ Functions to interact with this API can be found in `src/api.ts`.
 You can test them out with `npm run test-api`.
 Feel free to edit the `main` code in `scripts/test-api.ts` if you want to experiment with the API.
 
+### Disclaimer
+
+This is a very old (in JS time scales) repo, which predates the React Server Components era.
+
 ## Tasks
 
 Your task is to write a simple to-do app, with a design similar to https://todomvc.com/examples/typescript-react/#/.
